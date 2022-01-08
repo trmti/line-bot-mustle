@@ -1,5 +1,5 @@
 body {
-  background-image: url('../img/マッチョ.jpg');
+  background-image: url('./マッチョ.jpg');
   background-size: cover;
   background-position: 80% center;
 }
